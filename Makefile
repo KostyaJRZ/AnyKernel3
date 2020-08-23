@@ -2,7 +2,7 @@ NAME ?= AlpacaKernel
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-VERSION := CM11-1
+VERSION := CM13-1
 
 ZIP := $(NAME)-$(VERSION)-$(DATE).zip
 
